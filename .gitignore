@@ -1,0 +1,37 @@
+# Python #
+##########
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment #
+#######################
+venv/
+env/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# Environment Variables #
+#########################
+.env
+.env.*
+!.env.example
+
+# IDEs and Editors #
+####################
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs and Debug #
+##################
+*.log
+logs/
+
+# Optional: Ngrok specifics if any #
+####################################
+ngrok.yml
